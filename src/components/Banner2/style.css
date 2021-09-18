@@ -1,0 +1,25 @@
+p {
+    font-size: 22px;
+    
+    letter-spacing: 3px;
+        padding: 1rem !important;
+  }
+
+  @media only screen and (max-width: 600px) {
+    p{
+      font-size: 17px;
+    }
+  }
+  
+  .banner2 {
+      background-color: rgb(190, 190, 23);
+      
+  }
+  h4 {
+    padding-top: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+  
+  }
+  
