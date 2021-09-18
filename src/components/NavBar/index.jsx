@@ -8,7 +8,6 @@ import {
   } from "@material-ui/core";
 
 
-  import styled from 'styled-components';
   
   import { ShoppingCart } from "@material-ui/icons";
   import { Link, NavLink, useLocation } from "react-router-dom";
