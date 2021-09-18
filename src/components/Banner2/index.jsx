@@ -1,4 +1,4 @@
-import { Container, Typography, Button, Grid } from "@material-ui/core";
+import { Container } from "@material-ui/core";
 import "./style.css";
 
 const Banner2 = () => {
